@@ -10,6 +10,9 @@ This project implements the technical challenges as specified in the provided gu
 2. **Type-safe Throttle Function**: A TypeScript implementation of a throttle function that maintains the type signature of the original function.
 3. **Function Return Value to JSON**: A higher-order function that modifies the functions in an object, appending "JSON" to each field name and serializing the function's return value to JSON.
 
+## Chalenge Repo
+/src/Challenge
+
 ## Technologies Used
 
 - React
